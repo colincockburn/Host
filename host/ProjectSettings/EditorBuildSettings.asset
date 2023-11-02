@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 2754ee5f6f1e9434a8a5172929b2a702
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/SceneDemo.unity
+    guid: 0bcd9ce4f3fdc4e67b21bd570e69a080
+  - enabled: 0
+    path: Assets/Main_Menu.unity
+    guid: 73603d790e887440192622c19bb04454
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/georgesSampleScene.unity
+    guid: 3d5c8d40d18e24f8a808257960e6e6df
+  - enabled: 0
+    path: Assets/Scenes/tutorial.unity
+    guid: 4f92d430749159c4491f89dc01b37a93
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Julian'sLevel.unity
+    guid: bec0cf7b810d8411988bb114780c75a1
+  - enabled: 0
+    path: Assets/Scenes/End.unity
+    guid: 6879a022b534c456ab8ad8f4e3f6a19e
+  - enabled: 1
+    path: Assets/Scenes/demo.unity
+    guid: c89f99e9a2ae1fe44942147fd30c240d
+  m_configObjects: {}
